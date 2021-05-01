@@ -1,8 +1,8 @@
-### Hi there, I'm `Hoàng Long` 👋
+## Hi there, I'm `Hoàng Long` 👋
 
 
 
-## I'm a `Student, Developer !` 
+### I'm a `Student, Developer !` 
 - 🎓 I'm studying at UTC2.
 - 🌱 I’m currently learning everything.
 - ⚡ My hobbies: swimming, exploring, coding in my spare time.
