@@ -1,7 +1,6 @@
 ### Hi there, I'm `Hoàng Long` 👋
 
 
-![logo](https://cdna.artstation.com/p/assets/images/images/023/459/708/large/vaibhav-verma-game-logo.jpg?1579270067)
 
 ## I'm a `Student, Developer !` 
 - 🎓 I'm studying at UTC2.
