@@ -7,9 +7,11 @@
 - 🌱 I’m currently learning everything.
 - ⚡ My hobbies: swimming, exploring, coding in my spare time.
 
+
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vodoanhoanglong&show_icons=true&theme=gotham" alt="" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vodoanhoanglong&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vodoanhoanglong&show_icons=true&theme=gotham" alt="" />
 
 ### Connect with me:
 [<img align="left" alt="vodoanhoanglong | Instagram" width="22px" src="./icon/instagram.png" />][instagram]
