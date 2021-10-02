@@ -5,7 +5,7 @@
 - 🎓 I'm studying at UTC2.
 - 🌱 I’m currently learning everything.
 - ⚡ My hobbies: swimming, exploring, coding in my spare time.
-
+![](https://komarev.com/ghpvc/?username=vodoanhoanglong&color=red)
 <br />
 
 ### My stats card
@@ -15,8 +15,6 @@
 <p align="center">
     <img src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=vodoanhoanglong&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=DEG,3a1c71,d76d77,ffaf7b&title_color=FFE4E1&text_color=ffff&icon_color=ffc61c" />
     
-![](https://komarev.com/ghpvc/?username=vodoanhoanglong&color=red)
-
 ### Connect with me
 
 [<img align="left" alt="vodoanhoanglong | Instagram" width="22px" src="./icon/instagram.png" />][instagram]
