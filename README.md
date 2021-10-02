@@ -14,6 +14,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vodoanhoanglong&hide_border=true&langs_count=8&hide=html,css&layout=compact&bg_color=DEG,3a1c71,d76d77,ffaf7b&title_color=FFE4E1&text_color=ffff" />
 <p align="center">
     <img src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=vodoanhoanglong&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=DEG,3a1c71,d76d77,ffaf7b&title_color=FFE4E1&text_color=ffff&icon_color=ffc61c" />
+    
+![](https://komarev.com/ghpvc/?username=vodoanhoanglong&color=red)
 
 ### Connect with me
 
