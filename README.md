@@ -5,8 +5,8 @@
 - 🎓 I'm studying at UTC2.
 - 🌱 I’m currently learning everything.
 - ⚡ My hobbies: swimming, exploring, coding in my spare time.
-
 <br />
+
 ### My stats card
 
 <p align="center">
