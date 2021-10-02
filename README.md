@@ -7,7 +7,6 @@
 - ⚡ My hobbies: swimming, exploring, coding in my spare time.
 
 <br />
-
 ### My stats card
 
 <p align="center">
