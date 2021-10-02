@@ -5,7 +5,7 @@
 - 🎓 I'm studying at UTC2.
 - 🌱 I’m currently learning everything.
 - ⚡ My hobbies: swimming, exploring, coding in my spare time.
-![](https://komarev.com/ghpvc/?username=vodoanhoanglong&color=red)
+
 <br />
 
 ### My stats card
