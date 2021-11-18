@@ -13,6 +13,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vodoanhoanglong&hide_border=true&langs_count=8&hide=html,css&layout=compact&bg_color=DEG,3a1c71,d76d77,ffaf7b&title_color=FFE4E1&text_color=ffff" />
 <p align="center">
     <img src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=vodoanhoanglong&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=DEG,3a1c71,d76d77,ffaf7b&title_color=FFE4E1&text_color=ffff&icon_color=ffc61c" />
+<p align="center">
+    <img src="https://api.daily.dev/devcards/20ae1119391244fcaa3ef1ecace902a5.png?r=c2y" width="400" alt="Hoang Long's Dev Card"/>
     
 ### Connect with me
 
